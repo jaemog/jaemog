@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaemog Soh</h1>
+<h1 align="center">Hi 👋, My name is Jaemog Soh</h1>
 <h3 align="center">I am taking Fastcampus Bootcamp 13기</h3>
 
 <h3 align="left">Connect with me:</h3>
